@@ -1,2 +1,2 @@
-# Peshitta
-Arabic-Aramaic Bible
+# Bible-Arabic-Aramaic
+Bible Arabic-Aramaic

@@ -1,0 +1,121 @@
+BODY { color: black;
+    background : white;
+	font-size : 10pt;
+	font-family : "Verdana, Arial, Helvetica, sans-serif"; }
+
+A:link { color: rgb(0,0,255);
+	text-decoration: none; }
+
+A:visited { color: rgb(128,0,128);
+	text-decoration: none; }
+
+A:active { color: rgb(0,0,255); 
+	text-decoration: none; }
+
+A:hover { color: rgb(0,0,255);
+	text-decoration: underline; }
+
+TABLE, P, TD, TR, TH, SPAN, DIV, UL, OL { 
+	font-size : 10pt;
+font-family : "Verdana, Arial, Helvetica, sans-serif"; }
+
+SPAN.chapterno { color: black; 
+                 text-decoration: none;
+                 font-weight: bold; }
+
+SPAN.verse { color: rgb(192,192,192); }
+
+SPAN.small { font-size : 9pt; }
+
+SPAN.smallish { font-size : 9pt; }
+
+SPAN.bigger { font-size : 12pt; }
+
+SUP {font-size:8pt; vertical-align:top,text-top}
+
+SPAN.pb {color: red;
+         font-size:8pt; 
+         vertical-align:top,text-top}
+
+P  { 
+font-size : 10pt; 
+}
+
+p.small  { font-size : 8pt; }
+
+p.smallish  { font-size : 9pt; }
+
+P.BIG { font-size : 24pt;
+       font-family : "Times Roman, serif"; }
+
+P.PTITLE { font-size : 24pt;
+	font-family : "Times Roman, serif"; }
+
+H1 { font-size : 24pt;
+	font-family : "Times Roman, serif"; }
+
+H2 { font-size : 18pt;
+	font-family : "Times Roman, serif"; }
+
+P.editorial { color: red}
+
+P.overline { text-decoration: overline; }
+
+P.bibliography { font-family : "Arial, serif"; font-size : 9pt; }
+
+SPAN.editorial { color: red }
+
+SPAN.ms { color: blue }
+
+SPAN.overline { text-decoration: overline; }
+
+SPAN.superscript { vertical-align: super; font-size: smaller }
+
+SPAN.subscript {  vertical-align: sub; font-size: smaller }
+
+SPAN.cnote { font-size: small; 
+         text-transform:uppercase; font-family: helvetica, arial, sans-serif } 
+         
+SPAN.smallcaps { font-variant: smallcaps; }         
+
+P.smallcaps { font-variant: smallcaps; }          
+
+TD.reversebar { background : black;
+    color : white; }
+
+TD.deskcolour { background : rgb(192,192,192); }
+
+TD.pagecolour { background : rgb(255,255,192);}
+ 
+P.indent { text-indent: -50; margin-left: 50 }
+
+BR.indent { text-indent: -50; margin-left: 50 }
+
+.thintableborder
+{
+    BORDER-RIGHT: #333333 1px solid;
+    BORDER-TOP: #333333 1px solid;
+    BORDER-LEFT: #333333 1px solid;
+    BORDER-BOTTOM: #333333 1px solid;
+    COLOR: #000000;
+}
+
+.floatright 
+{
+   position: absolute;
+   top: auto;
+   right: +1.5em;
+   font-size : 13px;
+   color : #330000;
+   text-align:left;
+}
+
+pre 
+{
+	background-color: pink;
+	font-size : 12pt; 
+}
+.Greek 
+{
+    font-family : "Gentium, Palatino Linotype, Titus Cyberbit Basic, Aisa Unicode, Arial Unicode MS, Cardo, Microsoft Sans Serif";
+}

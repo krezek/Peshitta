@@ -1,0 +1,21 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs
+/Peshitta/x64
+*.user
+/x64
+/Peshitta/Debug
+/Peshitta/Release
+/Debug
+/Release
+/shell/Debug
+/shell/Release
+/shell/x64
+/sqlite/Debug
+/sqlite/Release
+/sqlite/x64
+/winbase/Debug
+/winbase/Release
+/winbase/x64

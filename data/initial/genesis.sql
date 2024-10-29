@@ -1,0 +1,54 @@
+DROP TABLE IF EXISTS genesis;
+CREATE VIRTUAL TABLE genesis USING FTS5(chapter, verse, prefix, suffix, body);
+
+
+.read genesis/genesis_1.sql
+.read genesis/genesis_2.sql
+.read genesis/genesis_3.sql
+.read genesis/genesis_4.sql
+.read genesis/genesis_5.sql
+.read genesis/genesis_6.sql
+.read genesis/genesis_7.sql
+.read genesis/genesis_8.sql
+.read genesis/genesis_9.sql
+.read genesis/genesis_10.sql
+.read genesis/genesis_11.sql
+.read genesis/genesis_12.sql
+.read genesis/genesis_13.sql
+.read genesis/genesis_14.sql
+.read genesis/genesis_15.sql
+.read genesis/genesis_16.sql
+.read genesis/genesis_17.sql
+.read genesis/genesis_18.sql
+.read genesis/genesis_19.sql
+.read genesis/genesis_20.sql
+.read genesis/genesis_21.sql
+.read genesis/genesis_22.sql
+.read genesis/genesis_23.sql
+.read genesis/genesis_24.sql
+.read genesis/genesis_25.sql
+.read genesis/genesis_26.sql
+.read genesis/genesis_27.sql
+.read genesis/genesis_28.sql
+.read genesis/genesis_29.sql
+.read genesis/genesis_30.sql
+.read genesis/genesis_31.sql
+.read genesis/genesis_32.sql
+.read genesis/genesis_33.sql
+.read genesis/genesis_34.sql
+.read genesis/genesis_35.sql
+.read genesis/genesis_36.sql
+.read genesis/genesis_37.sql
+.read genesis/genesis_38.sql
+.read genesis/genesis_39.sql
+.read genesis/genesis_40.sql
+.read genesis/genesis_41.sql
+.read genesis/genesis_42.sql
+.read genesis/genesis_43.sql
+.read genesis/genesis_44.sql
+.read genesis/genesis_45.sql
+.read genesis/genesis_46.sql
+.read genesis/genesis_47.sql
+.read genesis/genesis_48.sql
+.read genesis/genesis_49.sql
+.read genesis/genesis_50.sql
